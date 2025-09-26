@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.active{
+    @apply text-blue-700;
+}
+
+html, body {
+  overflow-x: hidden;
+}
